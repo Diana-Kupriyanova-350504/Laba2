@@ -96,29 +96,34 @@ namespace Shopping_list_and_maps
 
         }
 
+        private void toolStripButton4_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Navigate(toolStripTextBox1.Text);
+        }
+
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-
+            webBrowser1.GoBack();
         }
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-
+            webBrowser1.GoForward();
         }
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
-
+            webBrowser1.Refresh();
         }
 
         private void toolStripButton5_Click(object sender, EventArgs e)
         {
-
+            webBrowser1.Stop();
         }
 
         private void toolStripButton6_Click(object sender, EventArgs e)
         {
-
+            webBrowser1.GoHome();
         }
 
         private void toolStripTextBox1_Click(object sender, EventArgs e)
@@ -126,9 +131,6 @@ namespace Shopping_list_and_maps
 
         }
 
-        private void toolStripButton4_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
