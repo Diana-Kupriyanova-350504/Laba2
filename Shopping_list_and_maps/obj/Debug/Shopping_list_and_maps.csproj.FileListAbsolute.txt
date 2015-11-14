@@ -14,3 +14,12 @@ E:\Users\Диана\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\Text
 E:\Users\Диана\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\Shopping_list_and_maps.csproj.GenerateResource.Cache
 E:\Users\Диана\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\TextEditor.exe
 E:\Users\Диана\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\TextEditor.pdb
+e:\Shopping_list_and_maps\Shopping_list_and_maps\bin\Debug\TextEditor.exe.config
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\TextEditor.exe
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\TextEditor.pdb
+e:\Shopping_list_and_maps\Shopping_list_and_maps\bin\Debug\TextEditor.exe
+e:\Shopping_list_and_maps\Shopping_list_and_maps\bin\Debug\TextEditor.pdb
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\Shopping_list_and_maps.csprojResolveAssemblyReference.cache
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\Shopping_list_and_maps.Form1.resources
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\TextEditor.Properties.Resources.resources
+e:\Shopping_list_and_maps\Shopping_list_and_maps\obj\Debug\Shopping_list_and_maps.csproj.GenerateResource.Cache
