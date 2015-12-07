@@ -1,0 +1,10 @@
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Form2.resources
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+E:\Users\Диана\Documents\Visual Studio 2012\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
